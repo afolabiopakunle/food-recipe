@@ -125,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "food-recipe"
+  "defaultProject": "food-recipe",
+  "cli": {
+    "analytics": "0d0c7981-199a-41fd-8dbb-db151ce439ac"
+  }
 }
